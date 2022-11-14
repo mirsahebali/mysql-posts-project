@@ -1,3 +1,1 @@
-# hourCounter
-# mysql-posts-project
-# mysql-posts-project
+Created using mysql and express.js
